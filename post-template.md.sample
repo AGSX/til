@@ -1,0 +1,16 @@
+# Short title on what you've learned
+
+**Date: (the date today)**
+
+Post Body
+
+Write concisely about what you've learned. Whether it be from troubleshooting, developing and delivering: 
+
+- If you've got references, it'll be great to include them.
+- If you've written down commands, explain what it does per argument.
+- As for the file name, just use the post title and write it as dasherized:
+
+  ```
+  title - About Git Pull
+  filename - about-git-pull.md
+  ```
