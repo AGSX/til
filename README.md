@@ -8,6 +8,10 @@ This repository serves as a collection of things learned by people working in AG
 
 - [Ensuring Free Disk Space on Data Node Directories](hadoop-hdfs/ensuring_free_disk_space_on_data_node_directories.md)
 
+### Hadoop: YARN
+
+- [Container Spawn Problems with YARN](hadoop-yarn/container_spawn_problems_with_yarn.md)
+
 ## License
 
 Check the LICENSE file
