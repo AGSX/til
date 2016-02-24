@@ -7,7 +7,7 @@ This repository serves as a collection of things learned by people working in AG
 ### Hadoop: HDFS
 
 - [Ensuring Free Disk Space on Data Node Directories](hadoop-hdfs/ensuring_free_disk_space_on_data_node_directories.md)
-- [Aggressive of NameNode in Block Replication](hadoop-hdfs/aggressiveness_of_namenode_in_block_replication.md)
+- [Aggressiveness of NameNode in Block Replication](hadoop-hdfs/aggressiveness_of_namenode_in_block_replication.md)
 
 ### Hadoop: YARN
 
