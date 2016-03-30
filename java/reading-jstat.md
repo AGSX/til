@@ -2,7 +2,7 @@
 
 **Date: (March 30, 2016)**
 
-Most Hadoop Components are made out of Java. Sometimes they won't have a straightforward way of telling you how much heap they're using, or if they don't have GC logs, they might already be experiencing Full GC's. This is useful if, for example, a high impacting component such as Kafka is behaving weirdly.
+Most Hadoop Components are made out of Java. Sometimes they won't have a straightforward way of telling you how much heap they're using, or if they don't have GC logs, they might already be experiencing Full GC's. Knowing how to read JStat values is useful if, for example, a high impacting component such as Kafka is behaving weirdly.
 
 First off, to understand how GC's work, read up on [understanding how java garbage collection works](http://www.cubrid.org/blog/dev-platform/understanding-java-garbage-collection/).
 
