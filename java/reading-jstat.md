@@ -26,7 +26,7 @@ Example: I want to read the jstat values of the Kafka Broker running on my machi
      S0C    S1C    S0U    S1U      EC       EU        OC         OU       PC     PU    YGC     YGCT    FGC    FGCT     GCT
     500.0 500.0 500.0  0.0   5000.0 5000.0  100000.0  100000.0  50000.0 2500.0  5000 500.0 500   100.500 100.500
     
-The meaning of these values are taken from [this article](http://karunsubramanian.com/java/5-not-so-easy-ways-to-monitor-the-heap-usage-of-your-java-application/), 
+The meaning of these values are taken from [this article](http://karunsubramanian.com/java/5-not-so-easy-ways-to-monitor-the-heap-usage-of-your-java-application/).
 
 - S0C  Current survivor space 0 capacity (KB)
 - S1C  Current survivor space 1 capacity (KB)
@@ -44,12 +44,12 @@ The meaning of these values are taken from [this article](http://karunsubramania
 - FGCT  Full garbage collection time
 - GCT  Total garbage collection time
     
-### Java Usage
+### Reading Java Usage
 
 Just add the following values:
 
 OU + PU + EU + S0U  + S1U = Total Utilization
 
-### Java GC
+### Reading Java GC
 
-Watch out for the FGC, FGCT and GCT values. If they grow too quickly, somethings wrong with the Garbage Collection.
+I'm leaving the rest to the "Understanding Java Garbage Collection", but the only thing to watch out for are the following: FGC, FGCT and GCT. If they grow too quickly, somethings wrong with the Garbage Collection.
