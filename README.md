@@ -13,6 +13,11 @@ This repository serves as a collection of things learned by people working in AG
 
 - [Container Spawn Problems with YARN](hadoop-yarn/container_spawn_problems_with_yarn.md)
 
+### Java
+
+- [Reading and Using JStat to Read Java Heap Usage and Java GC](java/reading-jstat.md)
+
+
 ## Contributing
 
 If you want to share your learnings for today, please check out CONTRIBUTING.md
