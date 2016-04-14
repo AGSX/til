@@ -16,7 +16,7 @@ This repository serves as a collection of things learned by people working in AG
 ### Java
 
 - [Reading and Using JStat to Read Java Heap Usage and Java GC](java/reading-jstat.md)
-
+- [Getting JMap Outputs](java/getting-jmap-outputs.md)
 
 ## Contributing
 
