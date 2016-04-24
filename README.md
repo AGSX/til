@@ -22,6 +22,10 @@ This repository serves as a collection of things learned by people working in AG
 
 - [Using YAML Notation in Writing Tasks](ansible/use-yaml-notation-in-writing-tasks.md)
 
+### Python
+
+- [Learning Python](python/learning-python.md)
+
 ## Contributing
 
 If you want to share your learnings for today, please check out CONTRIBUTING.md
