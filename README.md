@@ -18,6 +18,10 @@ This repository serves as a collection of things learned by people working in AG
 - [Reading and Using JStat to Read Java Heap Usage and Java GC](java/reading-jstat.md)
 - [Getting JMap Outputs](java/getting-jmap-outputs.md)
 
+### Ansible
+
+- [Using YAML Notation in Writing Tasks](ansible/use-yaml-notation-in-writing-tasks.md)
+
 ## Contributing
 
 If you want to share your learnings for today, please check out CONTRIBUTING.md
