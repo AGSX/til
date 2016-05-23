@@ -21,7 +21,7 @@ This repository serves as a collection of things learned by people working in AG
 ### Ansible
 
 - [Using YAML Notation in Writing Tasks](ansible/use-yaml-notation-in-writing-tasks.md)
-
+- [Ansible OS X El Capitan installation issues](ansible/ansible_installation_in_el_capitan.md)
 ### Python
 
 - [Learning Python](python/learning-python.md)
@@ -33,4 +33,3 @@ If you want to share your learnings for today, please check out CONTRIBUTING.md
 ## License
 
 Check the LICENSE file
-
