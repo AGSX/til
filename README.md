@@ -4,10 +4,15 @@
 
 This repository serves as a collection of things learned by people working in AGSX. TIL entries are short, straightforward posts on things we learn day to day, regardless of technology or programming language.
 
+### Apache Ranger
+
+- [Ambari Managed Ranger Will Auto-Generate Services](apache-ranger/ambari-managed-ranger-auto-generate-services.md)
+
 ### Hadoop: HDFS
 
 - [Ensuring Free Disk Space on Data Node Directories](hadoop-hdfs/ensuring_free_disk_space_on_data_node_directories.md)
 - [Aggressiveness of NameNode in Block Replication](hadoop-hdfs/aggressiveness_of_namenode_in_block_replication.md)
+- [Setting Log Level of HDFS Filesystem Shell](hadoop-hdfs/log-level-hdfs-filesystem-shell.md)
 
 ### Hadoop: YARN
 
