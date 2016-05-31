@@ -1,6 +1,6 @@
 # Introduction on HBase
 
-**Date: May 30, 2016**
+**Date: May 31, 2016**
 
 #### Gist on Hadoop
 
