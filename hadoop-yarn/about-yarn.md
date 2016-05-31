@@ -1,4 +1,4 @@
-# About YARN
+# General Overview of YARN
 
 **Date: 05/31/16
   
