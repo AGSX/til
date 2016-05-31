@@ -20,10 +20,8 @@ The **Namenode** is a node that keeps track of the locations of data blocks. Thi
 Every so often (the time interval is configurable), the Namenode receives a *heartbeat* from each of the data nodes. If it does not receive a heartbeat from a data node, it assumes that the data node is dead and replaces it.
 
 ### References
-1. Diagram 1
-    ![Hadoop Diagram](http://i.stack.imgur.com/JRM54.png)
-1. Diagram 2
-    ![Hadoop Diagram2](https://s3.amazonaws.com/bradhedlund/2011/hadoop-network-intro/Data-Node-Read-from-HDFS.PNG)
+1. [Hadoop Diagram](http://i.stack.imgur.com/JRM54.png)
+1. [Hadoop Diagram2](https://s3.amazonaws.com/bradhedlund/2011/hadoop-network-intro/Data-Node-Read-from-HDFS.PNG)
 1. Justin Abrantes
 
 ```
