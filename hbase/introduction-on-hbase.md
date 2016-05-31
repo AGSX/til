@@ -36,6 +36,7 @@ Some unstructured data that HBase will handle includes:
 - [Apache HBase](http://hortonworks.com/apache/hbase/)
 - [Learn Hadoop: The Essentials Series](https://www.youtube.com/playlist?list=PL2y_WpKCCNQeLC4reyP-RaBqfH5QML000)
 
-```
-  Author: Almer Mendoza
-```
+
+#### Author
+
+Almer Mendoza

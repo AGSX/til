@@ -21,7 +21,7 @@ This repository serves as a collection of things learned by people working in AG
 
 ### HBase
 
-- [Introduction on HBase](introduction-on-hbase.md)
+- [Introduction on HBase](hbase/introduction-on-hbase.md)
 
 ### Java
 
