@@ -20,7 +20,9 @@
 
 ### References:
 [Hive vs PIG](https://www.dezyre.com/article/difference-between-pig-and-hive-the-two-key-components-of-hadoop-ecosystem/79)
+
 [Quora](https://www.quora.com/What-is-main-differences-between-hive-vs-pig-vs-sql)
+
 [Stack Overflow](http://stackoverflow.com/questions/3356259/difference-between-pig-and-hive-why-have-both)
 
 ```
