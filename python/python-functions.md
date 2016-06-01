@@ -3,9 +3,16 @@
 **Date: June 1, 2016**
 
 - You can assign functions to variables
-- You can have a function with infinite arity. Just prepent an asterisk before the variable
+```py
+def function1():
+  # do something
+  
+function2 = function1
 ```
-function_name(*args)
+- You can have a function with infinite arity. Just prepent an asterisk before the variable
+```py
+def function_name(*args):
+  # do something
 ```
 - You can use decorators by returning Functions
 - There is no need to determine the return type of a function
