@@ -52,7 +52,7 @@ file_handler.close()
 
 ```python
 file_handler = open ('this_is_your_file.file_format', 'w')
-file_content = file_hanlder.truncate()
+file_hanlder.truncate()
 file_handler.close()
 ```
 
