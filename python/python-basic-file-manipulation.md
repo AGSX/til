@@ -44,7 +44,7 @@ Note: The readline function will keep track which line the program is currently 
 
 ```python
 file_handler = open ('this_is_your_file.file_format', 'w')
-file_content = file_hanlder.write()
+file_hanlder.write(some_data)
 file_handler.close()
 ```
 
