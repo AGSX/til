@@ -16,7 +16,7 @@ This repository serves as a collection of things learned by people working in AG
 - [Setting Log Level of HDFS Filesystem Shell](hadoop-hdfs/log-level-hdfs-filesystem-shell.md)
 
 ### Hadoop: PIG vs HIVE
-[PIG vs HIVE](hadoop-hive-vs-pig/hive-vs-pig.md)
+- [PIG vs HIVE](hadoop-hive-vs-pig/hive-vs-pig.md)
 
 ### Hadoop: YARN
 
