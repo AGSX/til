@@ -44,6 +44,7 @@ This repository serves as a collection of things learned by people working in AG
 ### Python
 
 - [Learning Python](python/learning-python.md)
+- [Python Functions](python/python-functions.md)
 
 ## Contributing
 
