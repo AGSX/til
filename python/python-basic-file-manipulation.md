@@ -56,6 +56,8 @@ file_content = file_hanlder.truncate()
 file_handler.close()
 ```
 
+Note: As soon as a file is opened in write mode, the file is already truncated.
+
 #### References
 
 - [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
