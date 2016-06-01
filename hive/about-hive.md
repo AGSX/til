@@ -1,18 +1,14 @@
 # General Overview of Hive
 
-**Date: 05/31/16
+**Date: May 31, 2016**
   
-YARN in a nutshell is basically just the processing component of Hadoop. 
+Hive is non-relational database. It is a data warehouse layer built on top of Hadoop that simplifies analysis and queries. It takes polystructured and consists of metadata and hiveql.
 
-It handles operations, security, and data governance. It extends the power of Hadoop to all other technologies within the system.
+Hive has SQL like language. It has support for most of the basic commands but lacks support for transactions and materialized view. It also has limited subquery support. Hive tables consists of data and schema. It also has support for multitable inserts. Data can be accessed with a simple query language and it supports overwriting of data.
 
-It is the JobTracker of the entire system that performs two functionalities: resource management and job scheduling/monitoring.
+It operates on the server-side of any cluster and it explicitly defines its schema before data is even acquired.
 
-YARN is often called the Operating System of Hadoop because it enhances the Hadoop cluster by providing multi-tenancy, cluster utilization, scalability and compatibility. It allows multiple engines to use Hadoop to simultaneously access the same data. It improves the MapReduce model by providing multiple processing. This is actually its most significant benefit because we are no longer limited to the I/O intensive and high latency MapReduce framework. It expands scalability to manage more and more data and is also developed as to not interfere with any running applications.
-
-YARN generally works hand-in-hand with HDFS as seen in the image:
-![YARN and HDFS](http://d287f0h5fel5hu.cloudfront.net/blog/wp-content/uploads/2013/10/Hadoop-2.0-Intro-Blog2.jpg)
-
-####Resources:
-1. http://www.tomsitpro.com/articles/hadoop-2-vs-1,2-718.html
-2. http://hortonworks.com/apache/yarn/
+####References:
+- [Hortonworks](http://hortonworks.com/apache/hive/)
+- [Wikipedia](https://en.wikipedia.org/wiki/Apache_Hive)
+- [Difference between Pig and Hive-The Two Key Components of Hadoop Ecosystem](https://www.dezyre.com/article/difference-between-pig-and-hive-the-two-key-components-of-hadoop-ecosystem/79)
