@@ -14,8 +14,13 @@ function2 = function1
 def function_name(*args):
   # do something
 ```
-- You can use decorators by returning Functions
+
 - There is no need to determine the return type of a function
+```py
+# You do not have to specify that you are going to return an integer
+def add(addend1, addend2):
+  return a + b
+```
 
 ### References
 - [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
