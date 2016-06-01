@@ -5,9 +5,12 @@
 - You can assign functions to variables
 ```py
 def function1():
-  # do something
+  print "Printed from function1"
   
 function2 = function1
+function2()
+
+# Printed from function1
 ```
 - You can have a function with infinite arity. Just prepent an asterisk before the variable
 ```py
