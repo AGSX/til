@@ -24,9 +24,5 @@ Every so often (the time interval is configurable), the Namenode receives a *hea
 1. [Hadoop Diagram2](https://s3.amazonaws.com/bradhedlund/2011/hadoop-network-intro/Data-Node-Read-from-HDFS.PNG)
 1. Justin Abrantes
 
-```
-title - HDFS TIL
-filename - basic-hdfs-til-matt.md
-```
 ### Author:
 [Joseph Matthew Marcos](https://github.com/matthewmarcos94)
