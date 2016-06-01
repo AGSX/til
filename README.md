@@ -35,6 +35,7 @@ This repository serves as a collection of things learned by people working in AG
 ### Python
 
 - [Learning Python](python/learning-python.md)
+- [String Formatting](python/string-formatting.md)
 
 ## Contributing
 
