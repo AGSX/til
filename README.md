@@ -45,6 +45,7 @@ This repository serves as a collection of things learned by people working in AG
 ### Python
 
 - [Learning Python](python/learning-python.md)
+- [Python Basic File Manipulation](python/python-basic-file-manipulation.md)
 
 ## Contributing
 
