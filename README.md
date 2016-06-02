@@ -24,6 +24,10 @@ This repository serves as a collection of things learned by people working in AG
 
 - [Introduction on HBase](hbase/introduction-on-hbase.md)
 
+### Pig
+
+- [Basic Pig](pig/basic-pig.md)
+
 ### Java
 
 - [Reading and Using JStat to Read Java Heap Usage and Java GC](java/reading-jstat.md)
