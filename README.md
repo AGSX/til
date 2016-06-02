@@ -27,6 +27,10 @@ This repository serves as a collection of things learned by people working in AG
 
 - [Introduction on HBase](hbase/introduction-on-hbase.md)
 
+### Pig
+
+- [Basic Pig](pig/basic-pig.md)
+
 ### Java
 
 - [Reading and Using JStat to Read Java Heap Usage and Java GC](java/reading-jstat.md)
@@ -44,6 +48,8 @@ This repository serves as a collection of things learned by people working in AG
 ### Python
 
 - [Learning Python](python/learning-python.md)
+- [String Formatting](python/string-formatting.md)
+- [Python Basic File Manipulation](python/python-basic-file-manipulation.md)
 
 ## Contributing
 
