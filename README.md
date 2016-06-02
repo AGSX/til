@@ -13,6 +13,7 @@ This repository serves as a collection of things learned by people working in AG
 
 ### Hadoop: HDFS
 
+- [What is HDFS](hadoop-hdfs/basic-hdfs.md)
 - [Ensuring Free Disk Space on Data Node Directories](hadoop-hdfs/ensuring_free_disk_space_on_data_node_directories.md)
 - [Aggressiveness of NameNode in Block Replication](hadoop-hdfs/aggressiveness_of_namenode_in_block_replication.md)
 - [Setting Log Level of HDFS Filesystem Shell](hadoop-hdfs/log-level-hdfs-filesystem-shell.md)
@@ -21,6 +22,14 @@ This repository serves as a collection of things learned by people working in AG
 
 - [Container Spawn Problems with YARN](hadoop-yarn/container_spawn_problems_with_yarn.md)
 - [General Overview of YARN](hadoop-yarn/about-yarn.md)
+
+### HBase
+
+- [Introduction on HBase](hbase/introduction-on-hbase.md)
+
+### Pig
+
+- [Basic Pig](pig/basic-pig.md)
 
 ### Java
 
@@ -32,10 +41,15 @@ This repository serves as a collection of things learned by people working in AG
 - [Using YAML Notation in Writing Tasks](ansible/use-yaml-notation-in-writing-tasks.md)
 - [Ansible OS X El Capitan installation issues](ansible/ansible_installation_in_el_capitan.md)
 
+### Networking
+
+- [Debugging using TCPDump for Client-Server Problem](networking/monitor-client-server-packets.md)
+
 ### Python
 
 - [Learning Python](python/learning-python.md)
 - [String Formatting](python/string-formatting.md)
+- [Python Basic File Manipulation](python/python-basic-file-manipulation.md)
 
 ## Contributing
 

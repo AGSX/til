@@ -1,6 +1,6 @@
 # General Overview of Hive
 
-**Date: May 31, 2016**
+**Date: June 1, 2016**
   
 Hive is non-relational database. It is a data warehouse layer built on top of Hadoop that simplifies analysis and queries. It takes polystructured and consists of metadata and hiveql.
 
