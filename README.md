@@ -8,6 +8,9 @@ This repository serves as a collection of things learned by people working in AG
 
 - [Ambari Managed Ranger Will Auto-Generate Services](apache-ranger/ambari-managed-ranger-auto-generate-services.md)
 
+### Apache Hive
+- [General Overview of Hive](apache-hive/about-hive.md)
+
 ### Hadoop: HDFS
 
 - [What is HDFS](hadoop-hdfs/basic-hdfs.md)
