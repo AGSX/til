@@ -16,7 +16,7 @@ This repository serves as a collection of things learned by people working in AG
 - [Setting Log Level of HDFS Filesystem Shell](hadoop-hdfs/log-level-hdfs-filesystem-shell.md)
 
 ### Hadoop: PIG vs HIVE
-- [PIG vs HIVE](hadoop-hive-vs-pig/hive-vs-pig.md)
+- [PIG vs HIVE](hive/hive-vs-pig.md)
 
 ### Hadoop: YARN
 
@@ -26,6 +26,10 @@ This repository serves as a collection of things learned by people working in AG
 ### HBase
 
 - [Introduction on HBase](hbase/introduction-on-hbase.md)
+
+### Pig
+
+- [Basic Pig](pig/basic-pig.md)
 
 ### Java
 
@@ -45,6 +49,8 @@ This repository serves as a collection of things learned by people working in AG
 
 - [Learning Python](python/learning-python.md)
 - [Python Functions](python/python-functions.md)
+- [String Formatting](python/string-formatting.md)
+- [Python Basic File Manipulation](python/python-basic-file-manipulation.md)
 
 ## Contributing
 
