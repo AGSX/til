@@ -15,6 +15,9 @@ This repository serves as a collection of things learned by people working in AG
 - [Aggressiveness of NameNode in Block Replication](hadoop-hdfs/aggressiveness_of_namenode_in_block_replication.md)
 - [Setting Log Level of HDFS Filesystem Shell](hadoop-hdfs/log-level-hdfs-filesystem-shell.md)
 
+### Hadoop: PIG vs HIVE
+- [PIG vs HIVE](hadoop-hive-vs-pig/hive-vs-pig.md)
+
 ### Hadoop: YARN
 
 - [Container Spawn Problems with YARN](hadoop-yarn/container_spawn_problems_with_yarn.md)
