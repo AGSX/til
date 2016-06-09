@@ -52,6 +52,10 @@ This repository serves as a collection of things learned by people working in AG
 - [String Formatting](python/string-formatting.md)
 - [Python Basic File Manipulation](python/python-basic-file-manipulation.md)
 
+### SQLite3
+
+- [Basic SQLite3](sqlite3/basic-sqlite3.md)
+
 ## Contributing
 
 If you want to share your learnings for today, please check out CONTRIBUTING.md
