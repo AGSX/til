@@ -8,6 +8,10 @@ This repository serves as a collection of things learned by people working in AG
 
 - [Ambari Managed Ranger Will Auto-Generate Services](apache-ranger/ambari-managed-ranger-auto-generate-services.md)
 
+### Celery
+
+- [Getting Started with Celery](celery/about-celery.md)
+
 ### Hadoop: HDFS
 
 - [What is HDFS](hadoop-hdfs/basic-hdfs.md)
