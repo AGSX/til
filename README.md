@@ -12,6 +12,10 @@ This repository serves as a collection of things learned by people working in AG
 
 - [Getting Started with Celery](celery/about-celery.md)
 
+### Data Warehouse
+
+- [Data Warehouse Overview](data-warehouse/about-data-warehouse.md)
+
 ### Hadoop: HDFS
 
 - [What is HDFS](hadoop-hdfs/basic-hdfs.md)
