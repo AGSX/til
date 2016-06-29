@@ -56,6 +56,10 @@ This repository serves as a collection of things learned by people working in AG
 
 - [Basic SQLite3](sqlite3/basic-sqlite3.md)
 
+### ETL
+
+- [Basic SQLite3](etl/basic-etl.md)
+
 ## Contributing
 
 If you want to share your learnings for today, please check out CONTRIBUTING.md
