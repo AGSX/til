@@ -58,7 +58,7 @@ This repository serves as a collection of things learned by people working in AG
 
 ### ETL
 
-- [Basic SQLite3](etl/basic-etl.md)
+- [Basic ETL](etl/basic-etl.md)
 
 ## Contributing
 
