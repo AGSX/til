@@ -8,7 +8,7 @@ Over a sea of information about python, this TIL entry serves as a small curated
 	- Estimated Duration: 1 week 
 	- This tutorial was made by Zed Shaw, a guy who's also prominent in the Ruby community. Looking past the condescending tone and negative comments about Python 3, this tutorial is about learning discipline aside from learning Python.
 
-2. [Dive Into Python 3](http://www.diveinto.org/python3/)
+2. [Dive Into Python 3](http://www.diveintopython3.net/)
 	- Estimated Duration: 1 week
 	- This is an easy to chew Python 3 tutorial. Look past "Learn Python The Hard Way"'s negative view on Python 3 and actually start writing Python 3. Majority consent on the Zed Shaw's comments on Python 3 in "Learn Python The Hard Way" is outdated.
 
