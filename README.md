@@ -64,6 +64,15 @@ This repository serves as a collection of things learned by people working in AG
 
 - [Basic SQLite3](sqlite3/basic-sqlite3.md)
 
+### Data Warehouse
+
+- [Logical Design for Data Warehouse](data-warehouse/logical-design.md)
+- [Physical Design for Data Warehouse](data-warehouse/physical-design.md)
+
+### ETL
+
+- [Basic ETL](etl/basic-etl.md)
+
 ## Contributing
 
 If you want to share your learnings for today, please check out CONTRIBUTING.md
